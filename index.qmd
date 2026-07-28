@@ -1,7 +1,7 @@
 ---
-title: "Blitz Bearcat"
+title: "Sophia Rabbanian"
 subtitle: "M.S. Data Science Candidate · Willamette University"
-image: images/profile.png
+image: images/headshot.JPG
 about:
   template: trestles
   image-shape: round
@@ -9,13 +9,13 @@ about:
   links:
     - icon: github
       text: GitHub
-      href: https://github.com/your_github_username
+      href: https://github.com/sophiarabb
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com/in/your_github_username
+      href: https://linkedin.com/in/sophiarabbanian
     - icon: envelope
       text: Email
-      href: mailto:you@willamette.edu
+      href: mailto:sophiarabb@icloud.com
     - icon: file-earmark-pdf
       text: Resume
       href: resume.qmd
@@ -42,6 +42,8 @@ starting \[month year\]. [Get in touch](about.qmd) or grab my
 ### 🎓 Education
 M.S. Data Science
 Willamette University, 2026
+B.S. Data Science
+Willamette University, 2026
 :::
 
 ::: {.g-col-12 .g-col-md-4}
@@ -53,7 +55,7 @@ Quarto · Git · \[add yours\]
 ::: {.g-col-12 .g-col-md-4}
 ### 📍 Based in
 Salem, OR
-Open to \[remote / relocation\]
+Open to \relocation\
 :::
 
 :::

@@ -1,9 +1,9 @@
 ---
-title: "Capstone: [Your Capstone Title]"
-subtitle: "A one-sentence hook: what you built and who it helps."
+title: "Capstone: Reading The Data - An Analysis of Willamette University Library's E-Resource Usage"
+subtitle: "Our Analysis "
 date: 2026-07-27
 image: projects/capstone/featured.svg
-categories: [capstone, machine-learning, R]
+categories: [capstone, data-wrangling, R]
 toc: true
 ---
 
@@ -14,8 +14,8 @@ should read this one. Replace every bracketed placeholder, then delete this note
 
 ## The one-liner
 
-> We integrated **\[data sources\]** into **\[dataset\]** so that
-> **\[stakeholder\]** can **\[decision they can now make\]**.
+> We integrated **journal request data and enrollment data** into **a normalized schema** so that
+> **the Willamette Librarians** can **better understand their usage and make informed decisions about which online resources to maintain**.
 
 **Role:** \[e.g. I led the data pipeline and validation.\]
 **Team:** \[solo, or name + link teammates.\]

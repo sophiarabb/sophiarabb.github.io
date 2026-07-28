@@ -9,9 +9,9 @@ execute:
   freeze: auto
 
 website:
-  title: "Blitz Bearcat"
+  title: "Sophia Rabbanian"
   description: "M.S. Data Science portfolio — Willamette University"
-  site-url: https://your_github_username.github.io
+  site-url: https://sophiarabb.github.io
   navbar:
     right:
       - href: index.qmd
@@ -31,7 +31,7 @@ website:
         href: https://linkedin.com/in/your_github_username
         aria-label: LinkedIn
   page-footer:
-    left: "© 2026 Blitz Bearcat"
+    left: "© 2026 Sophia Rabbanian"
 
 format:
   html:
