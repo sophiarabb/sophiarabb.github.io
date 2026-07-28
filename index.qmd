@@ -48,7 +48,7 @@ Willamette University, 2026
 
 ::: {.g-col-12 .g-col-md-4}
 ### 🛠️ Toolkit
-R · Python · SQL
+R · Python · PostgreSQL
 Quarto · Git · \[add yours\]
 :::
 
