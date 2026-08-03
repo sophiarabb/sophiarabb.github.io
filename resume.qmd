@@ -3,44 +3,48 @@ title: "Resume"
 toc: true
 ---
 
-[📄 Download PDF](assets/resume.pdf){.btn .btn-primary role="button"}
+[📄 Download PDF](assets/portfolioResume.pdf){.btn .btn-primary role="button"}
 
-::: {.callout-note appearance="simple"}
-Drop your typeset resume at `assets/resume.pdf` and it appears below. Any PDF
-works tonight — export from Word, Google Docs, or a `vitae`/LaTeX template. The
-web summary below is what recruiters skim; the PDF is what they download.
-:::
-
-<iframe src="assets/resume.pdf" width="100%" height="800px"
+<iframe src="assets/portfolioResume.pdf" width="100%" height="800px"
   style="border: 1px solid #ddd; margin-top: 1rem;">
 </iframe>
 
 ## Education
 
-**M.S. Data Science** — Willamette University, Salem, OR *(2026)*
-**B.S. \[Your Major\]** — \[Your University\], \[City\] *(\[year\])*
+**M.S. Data Science** — Willamette University, Salem, OR *(2026)* <br>
+**B.S. Data Science** — Willamette University, Salem, OR *(2026)*
+    -- *Minor*: Economics
 
 ## Skills
 
-| Area | Tools |
-|------|-------|
-| **Languages** | R, Python, SQL |
-| **Data & ML** | \[tidyverse / pandas, scikit-learn, ...\] |
-| **Workflow** | Git, Quarto, \[Docker, cloud, ...\] |
-| **Communication** | Technical writing, data visualization |
+| Area              | Tools |
+|------             |-------|
+| **Languages**     | R, Python, SQL, Command Line |
+| **Data**          | tidyverse, pandas, shinyApp, ggplot, matplotlib |
+| **Workflow**      | Git, Quarto, Docker |
+| **Communication** | Technical writing, data visualization, report generation |
 
 ## Experience
 
-**\[Job Title\]** — \[Organization\], \[Location\] *(\[dates\])*
+**Data Analytics Intern** — Financial Beginnings <br>
+Remote *(May - August 2026)*
 
-- Accomplishment framed as impact, not a task description.
-- Another accomplishment with a number in it if you have one.
+- Increased company awareness of their data by using data exported from Hubspot to analyze key business metrics
+- Improved data integrity and hygiene by providing reviews of the data and proposing areas for improvements
+
+**Student Supervisor & Peer Tutor** — QUAD Center <br>
+Salem, OR *(August 2023 - August 2026)*
+
+- Authored a Title III federal grant report demonstrating the trends and patterns of tutoring center utilization
+- Increased student comprehension by guiding peers with open-ended questions about course materials and concepts
+
 
 ## Projects
 
-**\[Capstone Title\]** — see the [Capstone page](capstone.qmd) for the full story.
+**Reading the Data: An Analysis of Willamette University Library’s E-Resource Usage** — see the [Capstone page](capstone.qmd) for the full story.
 
-- One line on the problem and your role.
+- We combined journal request data with enrollment data into a normalized schema, giving Willamette's librarians the insight they need to make informed, data-driven decisions about which online resources to maintain. I led the conversations with stakeholders, as well as the data wrangling process, and contributed to the analysis and final deliverables.
 
-*Placeholders in brackets are fine while you build. Replace them with real,
-defensible entries as they materialize — sparse and true beats full and shaky.*
+**QUAD Center Cumulative Usage Report** — see the [Projects page](projects.qmd) for the full story.
+
+- I collected, maintained and compiled tutor center usage data for the timespan of the Title III grant in order to show the effectiveness and importance of the QUAD as a student resource. This report was sent to our grant reviewer at the federal government to showcase what we did with the funds we received.

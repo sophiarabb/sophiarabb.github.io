@@ -20,13 +20,13 @@ WU Library's usage of their online resources(capstone.qmd), is where that comes 
 
 ### Beyond the terminal
 
-- 🌲 \[Something human — a hobby, a place, a cause.\]
+- 🧶 I love to craft!
 - 📚 My goal is to read 75 books in 2026.
-- 🎯 \[What you want to be doing in two years.\]
+- 🎯 In two years, I hope to be continuously honing and expanding my skills in the context of my industry.
 
 ### Get in touch
 
-I'm happy to talk about \[data work, collaborations, roles\].
+I'm happy to talk about data and possible collaborations or projects.
 
 - ✉️ [sophiarabb@icloud.com](mailto:sophiarabb@icloud.com)
 - 💼 [LinkedIn](https://linkedin.com/in/sophiarabbanian)

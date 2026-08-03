@@ -1,0 +1,27 @@
+---
+title: "QUAD Center Cumulative Grant Period Report"
+description: "A multi-year analysis of QUAD Center tutoring data, examining session demand across departments, courses, and programming languages alongside enrollment trends. Produced for federal grant reporting and center planning purposes."
+date: 2026-08-01
+image: quadLogo.png
+categories: [r, visualization, reporting]
+---
+
+## What it is
+
+ This project analyzes NFL player and team performance data, integrating a comprehensive sports betting dataset. The focus is on examining the impact of factors such as weather conditions, home and away advantages, and individual player performance relative to expectations. Through exploratory data analysis, the study employs various analytical techniques, including Linear Regression, Multiple Regression, Correlation Coefficient analysis, and potential Classification methods such as Decision Trees. The resulting visualizations and insights aim to provide a data-driven foundation for making accurate predictions and informed decisions when betting on NFL games.
+
+## What I did
+
+- Cleaned and combined three Kaggle datasets — betting/weather data, team stats, and player stats (2012–2023) — into one analysis pipeline.
+- Built visualizations and a logistic regression model examining how weather, home field advantage, and passing performance relate to wins and covering the spread.
+- Found home field advantage and passing yards both correlate with winning, and that spreads are larger when the favorite plays at home — with results framed as directional insight, not predictive guarantees.
+
+## Output
+
+#### Presentation:
+
+[Open the report (HTML)](cumulativeReport.html){.btn .btn-primary}
+
+<iframe src="cumulativeReport.html" width="100%"
+  style="aspect-ratio: 8.5 /11; border: 1px solid #ddd;"></iframe>
+

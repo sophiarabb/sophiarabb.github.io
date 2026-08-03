@@ -1,0 +1,27 @@
+---
+title: "From the Sidelines to the Spread: An Analysis of NFL Performance"
+description: "This project combines NFL game and player statistics with sports betting data to explore stadium atmosphere, weather metrics, draft picks, and other player success metrics effects on betting odds."
+date: 2025-04-16
+image: 370finalImage.png
+categories: [course-work, python, visualization]
+---
+
+## What it is
+
+As QUAD Center supervisor, I built a cumulative report analyzing over 2,200 tutoring sessions from October 2022 through April 2026, examining demand by department, course, and programming language alongside enrollment trends. The analysis supports both federal grant reporting requirements and practical planning, highlighting which courses drive the most demand and how tutor staffing changes shift usage patterns over time.
+
+## What I did
+
+- Cleaned and analyzed over 2,200 tutoring session records spanning October 2022–April 2026, addressing shifting data collection fields and missing data across the grant period.
+- Built visualizations examining tutoring demand by department, course, programming language, and time, alongside enrollment trends for top-tutored classes.
+- Produced a cumulative R Markdown grant report summarizing usage patterns and their drivers (staffing changes, extra credit assignments, course sequencing) for grant reporting and center planning.
+
+## Output
+
+#### Presentation:
+
+[Download the slides (PDF)](370slides.pdf){.btn .btn-primary}
+
+<iframe src="370slides.pdf" width="100%"
+  style="aspect-ratio: 4 / 3; border: 1px solid #ddd;"></iframe>
+
