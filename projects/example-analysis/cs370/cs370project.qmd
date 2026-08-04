@@ -8,13 +8,14 @@ categories: [course-work, python, visualization]
 
 ## What it is
 
-As QUAD Center supervisor, I built a cumulative report analyzing over 2,200 tutoring sessions from October 2022 through April 2026, examining demand by department, course, and programming language alongside enrollment trends. The analysis supports both federal grant reporting requirements and practical planning, highlighting which courses drive the most demand and how tutor staffing changes shift usage patterns over time.
+ This project analyzes NFL player and team performance data, integrating a comprehensive sports betting dataset. The focus is on examining the impact of factors such as weather conditions, home and away advantages, and individual player performance relative to expectations. Through exploratory data analysis, the study employs various analytical techniques, including Linear Regression, Multiple Regression, Correlation Coefficient analysis, and potential Classification methods such as Decision Trees. The resulting visualizations and insights aim to provide a data-driven foundation for making accurate predictions and informed decisions when betting on NFL games.
+
 
 ## What I did
 
-- Cleaned and analyzed over 2,200 tutoring session records spanning October 2022–April 2026, addressing shifting data collection fields and missing data across the grant period.
-- Built visualizations examining tutoring demand by department, course, programming language, and time, alongside enrollment trends for top-tutored classes.
-- Produced a cumulative R Markdown grant report summarizing usage patterns and their drivers (staffing changes, extra credit assignments, course sequencing) for grant reporting and center planning.
+- Cleaned and combined three Kaggle datasets — betting/weather data, team stats, and player stats (2012–2023) — into one analysis pipeline.
+- Built visualizations and a logistic regression model examining how weather, home field advantage, and passing performance relate to wins and covering the spread.
+- Found home field advantage and passing yards both correlate with winning, and that spreads are larger when the favorite plays at home — with results framed as directional insight, not predictive guarantees.
 
 ## Output
 

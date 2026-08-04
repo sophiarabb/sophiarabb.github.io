@@ -29,8 +29,6 @@ the Willamette Library.
 I care about making data accessible and understandable to all, reproducible workflows, 
 and explaining a model to the person who has to trust it. My special interests are sports, music and books.
 
-**Currently employed by** [Photronics](https://www.photronics.com/) as a Process Engineer at the Boise, ID location. [Get in touch](about.qmd) or grab my [resume](resume.qmd).
-
 ---
 
 ::: {.grid}
