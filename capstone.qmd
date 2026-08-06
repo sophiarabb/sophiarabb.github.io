@@ -13,7 +13,7 @@ toc: true
 > **the Willamette Librarians** can **better understand their usage and make informed decisions about which online resources to maintain**.
 
 **Role:** I spoke to our stakeholders, led the data wrangling process, contributed to the analysis, and worked on the final deliverables. <br>
-**Team:** Emily Strickland & Tiffany Truong <br>
+**Team:** [Emily Strickland](https://emvstrick.github.io/) & [Tiffany Truong](https://tiffanytruong26.github.io/) <br>
 **Repo:** [https://github.com/sophiarabb/data510-libraries](https://github.com/sophiarabb/data510-libraries)
 
 ## The question
