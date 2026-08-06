@@ -45,7 +45,7 @@ Willamette University, 2026
 ::: {.g-col-12 .g-col-md-4}
 ### 🛠️ Toolkit
 R · Python · SQL · 
-Quarto · Git · ShinyApp · 
+Quarto · Git · ShinyApp ·
 Microsoft Suite · 
 Google Suite · 
 Jupyter Notebook

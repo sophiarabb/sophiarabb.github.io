@@ -1,0 +1,30 @@
+---
+title: "A Point We Can’t Pass(e) - Reimagining UDA’s Judging Rubric"
+description: "Following recent controversies surround UDA's judging criteria, this project seeks to reimagine the judging rubric for UDA Dance Competitions. We use data visualization to assess the history and cultural significances of dances from around the world."
+date: 2026-04-23
+image: udaLogo.png
+categories: [r, visualization]
+---
+
+## What it is
+
+In January 2026, the UDA College National Championships happened in Orlando. LSU's all-female Tiger Girls lost the Hip Hop title to UNLV for the second year in a row, sparking controversy online about the current judging criterai. Fans on social media argued the judging favored technical execution over creativity and viral appeal, also pointing out that LSU's performance, which was a spin-off inspired by Kendrick Lamar's Super Bowl Halftime show, was much more culturally significant.
+
+Using publicly available data from kaggle, my classmate, Seira Ramchandani, and I worked to analyze dance styles worldwide. Taking into account their tempos, origins, and cultural significance, we strived to suggest amendments to the UDA's current judging rubric. The rubric can be seen in the HTML file below, followed by our analysis and our suggested additions. 
+
+## What I did
+
+- Determined top areas of interest in the data, which included successful efforts to wrangle and clean the data.
+- Built visualizations examining dance learning difficulty, typical music tempo, typical formations, and origins.
+- Produced an interactive graphic examining the most commonly used words in describing dances of each learning difficulty level (Very easy - Very hard)
+
+
+## Output
+
+#### Presentation:
+
+[Open the report (HTML)](data502final2.html){.btn .btn-primary}
+
+<iframe src="data502final2.html" width="100%"
+  style="aspect-ratio: 8.5 /11; border: 1px solid #ddd;"></iframe>
+
