@@ -15,8 +15,7 @@ data science class. What keeps me interested in data science is the ability to d
 insights from messy data. Though I enjoy all aspects of data pipelines, my highlights are the wrangling 
 process and creating visualizations.
 
-At Willamette my focus has been data engineering and data analysis. My capstone project, which analyzes 
-WU Library's usage of their online resources(capstone.qmd), is where that comes together.
+At Willamette my focus has been data engineering and data analysis. My [capstone project](capstone.qmd), which analyzes WU Library's usage of their online resource, is where that comes together.
 
 ### Beyond the terminal
 
