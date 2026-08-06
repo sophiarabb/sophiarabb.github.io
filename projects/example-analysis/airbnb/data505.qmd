@@ -1,0 +1,28 @@
+---
+title: "Salem Stays: What Drives Airbnb Ratings and Pricing in Oregon's Capital?"
+description: "This project uses machine learning concepts to predict overall review score and pricing in Salem's airbnb market."
+date: 2026-04-20
+image: airbnbLogo.png
+categories: [course-work, python, machine-learning]
+---
+
+## What it is
+
+Using publicly available Airbnb data from Salem's listings and reviews, this project seeks to analyze the effects of various Airbnb characteristics on the pricing and ratings of an Airbnb. Variables of interest included amenities, "key" words mentioned in the reviews, proximity to Salem landmarks, seasonal patterns, overall market trends, and host characteristics. We used linear regression, multiple linear regression, decision trees, k-nearest neighbors and natural language processing to address these questions.
+
+
+## What I did
+
+- Researched host characteristics and performed linear regression on the rating of an airbnb dependent on such host characteristics.
+- Built visualizations and a multiple linear regression model to assess how ratings in specific criteria (cleanliness, location, communication, etc.) impact the overall rating of the airbnb.
+- Created a decision tree to determine the size of the airbnb (single room, entire house, etc.) dependent on other Airbnb characteristics.
+
+## Output
+
+#### Presentation:
+
+[Download the slides (PDF)](505slides.pdf){.btn .btn-primary}
+
+<iframe src="505slides.pdf" width="100%"
+  style="aspect-ratio: 4 / 3; border: 1px solid #ddd;"></iframe>
+
